@@ -1,0 +1,2 @@
+order_id,order_date,product_id,quantity,sales,city,errors
+4,1/4/2023,500,1,20000,Bangalore,['total sales issue']
